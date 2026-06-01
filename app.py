@@ -38,14 +38,6 @@ from openpyxl.utils import get_column_letter
 
 
 
-# PDF
-from reportlab.platypus import (
-    SimpleDocTemplate,
-    Table,
-    TableStyle
-)
-
-from reportlab.lib import colors
 
 # =====================================
 # DB接続
